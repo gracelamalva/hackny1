@@ -1,0 +1,18 @@
+body{
+	background-image: url("landing-page.png");
+	background-size: 1340px, 1010px;
+	background-repeat: repeat;
+	background-attachment: fixed;
+	color: white;
+}
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #cc3300;
+	color: white;
+	text-align: center;	
+}
+
