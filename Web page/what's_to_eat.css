@@ -16,3 +16,9 @@ body{
 	text-align: center;	
 }
 
+.navbar-brand,
+.navbar-nav li a {
+    height: 34px;
+	padding-bottom: 0;
+	padding-top: 0;
+}
